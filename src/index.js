@@ -14,7 +14,7 @@ root.render(
       <WeatherSearch />
     </div>
     <footer>
-      <a target="_blank" href="https://github.com/alenak26/weather_react"> Open-sorce code</a>{" "}
+      <a href="https://github.com/alenak26/weather_react"> Open-sorce code</a>{" "}
       by Olena Koloshynska
     </footer>
   </StrictMode>
